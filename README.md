@@ -24,6 +24,7 @@ relaxed docking-ready structures
 ---
 
 ## 📁 Directory Structure
+```text
 bioemu-flowpacker-md/
 ├── stage1_generation/
 │ ├── run_generation.sh
@@ -42,7 +43,7 @@ bioemu-flowpacker-md/
 ├── utils/
 │ └── extract_n_structures.py
 └── README.md
-
+```
 
 ---
 
