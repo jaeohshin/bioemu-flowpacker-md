@@ -50,8 +50,8 @@ bioemu-flowpacker-md/
 ## 🔧 Dependencies
 
 - Python 3.8+
-- [BioEmu](https://github.com/ProteinDesignLab/BioEmu)
-- [FlowPacker](https://github.com/ProteinDesignLab/FlowPacker)
+- [BioEmu](https://github.com/microsoft/bioemu)
+- [FlowPacker](https://gitlab.com/mjslee0921/flowpacker)
 - [GROMACS](https://www.gromacs.org/)
 - PyMOL / MDAnalysis / MDTraj (optional, for analysis)
 
