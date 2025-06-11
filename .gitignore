@@ -1,0 +1,13 @@
+# .gitignore
+*.xtc
+*.log
+*.gro
+*.tpr
+*.trr
+*.edr
+*.out
+*.err
+*.mdp
+*.bak
+relaxed_pdbs/
+
