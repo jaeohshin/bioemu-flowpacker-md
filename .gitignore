@@ -2,6 +2,7 @@
 *.xtc
 *.log
 *.gro
+*.pdb
 *.tpr
 *.trr
 *.edr
@@ -9,5 +10,5 @@
 *.err
 *.mdp
 *.bak
-relaxed_pdbs/
-
+*.pdb
+abl1/
